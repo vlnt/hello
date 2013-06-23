@@ -1,0 +1,1 @@
+Git is a powerful decentralized revision control system, and is the means for deploying apps to Heroku. You don’t need to be proficient with Git to use it for deploying code to Heroku, but you may find it valuable to learn the basics of this excellent tool for managing source code. 
